@@ -1,0 +1,27 @@
+caption{
+  background-color: black;
+}
+th{
+  background-color: black;
+}
+.cell{
+  background-color: red;
+}
+.p1{
+  background-color: blue;
+}
+.p2{
+  background-color: gold;
+}
+.p3{
+  background-color: violet;
+}
+.p0{
+  background-color: silver;
+}
+.p9{
+  background-color: pink;
+}
+.p8{
+  background-color: turquoise;
+}
